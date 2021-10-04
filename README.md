@@ -1,4 +1,4 @@
-# html-css-fundamentals
+# HTML & CSS
 
 Project developed to practice HTML5 & CSS3 Fundamentals. 
 
